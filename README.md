@@ -30,7 +30,7 @@ Then, try these explorations:
 
 (If you don't know how to type those characters, you can copy-paste from this README!)
 
-What do you get as answers? Edit this README file by copy-pasting or screenshotting the output you got, what you expected to see, and why there is a difference (if any).
+What do you get as output? Edit this README file by copy-pasting or screenshotting the output you got, what you expected to see, and why there is a difference (if any).
 
 (You can edit the README file in your codespace or on github.com).
 
