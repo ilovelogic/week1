@@ -23,9 +23,11 @@ Then, try these explorations:
 
   `./welcome Joe Politz`
   `./welcome 'Joe Politz'`
-- Try the name 'José'
+- Try the name `José`
 - Try the name `李` (the [Chinese surname Li/Lee](https://en.wikipedia.org/wiki/Li_(surname_%E6%9D%8E)))
-- Try the name 'Übe'
+- Try the name `Übe`
+
+(If you don't know how to type those characters, you can copy-paste from this README!)
 
 What do you get as answers? Edit this README file by copy-pasting or screenshotting the output you got, and what you think might have happened. (You can edit the README file in your codespace or on github.com).
 
