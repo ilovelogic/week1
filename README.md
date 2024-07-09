@@ -25,7 +25,7 @@ Then, try these explorations:
   `./welcome 'Joe Politz'`
 - Try the name `José`
 - Try the name `李` (the [Chinese surname Li/Lee](https://en.wikipedia.org/wiki/Li_(surname_%E6%9D%8E)))
-- Try the name `Übe`
+- Try the name `Ülo`
 
 (If you don't know how to type those characters, you can copy-paste from this README!)
 
