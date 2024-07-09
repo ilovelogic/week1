@@ -22,6 +22,7 @@ Then, try these explorations:
 - Use a name with multiple parts, like `Joe Politz`. Try it both with and without quotes:
 
   `./welcome Joe Politz`
+  
   `./welcome 'Joe Politz'`
 - Try the name `José`
 - Try the name `Ülo`
